@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/belajar-react/static/css/main.b100e6da.chunk.css",
+    "main.js": "/belajar-react/static/js/main.9db414c4.chunk.js",
+    "main.js.map": "/belajar-react/static/js/main.9db414c4.chunk.js.map",
+    "runtime-main.js": "/belajar-react/static/js/runtime-main.36a9f056.js",
+    "runtime-main.js.map": "/belajar-react/static/js/runtime-main.36a9f056.js.map",
+    "static/js/2.9ed5684c.chunk.js": "/belajar-react/static/js/2.9ed5684c.chunk.js",
+    "static/js/2.9ed5684c.chunk.js.map": "/belajar-react/static/js/2.9ed5684c.chunk.js.map",
+    "index.html": "/belajar-react/index.html",
+    "precache-manifest.fcfd0d6abf72eb7271900107b16cfd8b.js": "/belajar-react/precache-manifest.fcfd0d6abf72eb7271900107b16cfd8b.js",
+    "service-worker.js": "/belajar-react/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/belajar-react/static/css/main.b100e6da.chunk.css.map"
+  }
+}
